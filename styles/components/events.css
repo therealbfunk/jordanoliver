@@ -1,0 +1,31 @@
+.events__section {
+padding: 10px;
+margin: 10px;
+
+}
+
+.events__h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 4rem;
+    color: rgb(19, 19, 19);
+    font-weight: 900;
+   padding: 1rem;
+   display: grid;
+   justify-content: center;
+}
+
+.events__section-img {
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+.events__flyers {
+    max-width: 50%;
+    margin-bottom: 1rem;
+}
+
+.events__section h3 {
+    color: orangered;
+}

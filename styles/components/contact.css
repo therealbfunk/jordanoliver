@@ -1,0 +1,15 @@
+.contact__section {
+
+}
+
+
+.socials__icon {
+    max-width: 10%;
+}
+
+.contact__container {
+    display: grid;
+    grid-template-rows: auto 1fr;
+    
+    
+}
